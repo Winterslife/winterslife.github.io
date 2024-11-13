@@ -63,6 +63,13 @@ a:hover {
   order: 2;
 }
 
+.contact-info {
+    text-align: center;
+    color: #666;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
 .bio {
   flex: 1;
   order: 1;
